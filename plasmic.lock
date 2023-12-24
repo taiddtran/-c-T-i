@@ -1,0 +1,145 @@
+{
+  "projects": [
+    {
+      "projectId": "xp1p7dmg329XVLHyuEUxD2",
+      "version": "11.29.0",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "assetId": "xp1p7dmg329XVLHyuEUxD2",
+          "type": "projectCss",
+          "checksum": "1b891cf9539f1db972dc4163ae1172e9"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "MroyaMVHnDxb5Kwefw95q",
+      "version": "latest",
+      "dependencies": {
+        "xp1p7dmg329XVLHyuEUxD2": "11.29.0"
+      },
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "obvOd33JFSBD",
+          "checksum": "f130bf28489255fa625e3ea16441b879"
+        },
+        {
+          "assetId": "MroyaMVHnDxb5Kwefw95q",
+          "type": "projectCss",
+          "checksum": "024250f5a85ca2a9b4fd8f76c6d08311"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "AUjYGwiviYp0",
+          "checksum": "da7aa4a5169ce3cccab91d21a03841df"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "AUjYGwiviYp0",
+          "checksum": "da7aa4a5169ce3cccab91d21a03841df"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "F0KtAPovJT98",
+          "checksum": "da69d47d05e66570e0f3916610fbf7d5"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "F0KtAPovJT98",
+          "checksum": "da69d47d05e66570e0f3916610fbf7d5"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "vzCJyFzjnXyO",
+          "checksum": "37f9371b94db9515bf602e6e5af9c5bd"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "vzCJyFzjnXyO",
+          "checksum": "37f9371b94db9515bf602e6e5af9c5bd"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "HnwECN7IsF7o",
+          "checksum": "536eb48f504a310c041ef7756e9d8763"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "HnwECN7IsF7o",
+          "checksum": "536eb48f504a310c041ef7756e9d8763"
+        },
+        {
+          "type": "icon",
+          "assetId": "BjHcCev1Qt6p",
+          "checksum": "9cb6502ed3899da13de9f38cecfdb9ca"
+        },
+        {
+          "type": "icon",
+          "assetId": "lzIBmoUTtA-m",
+          "checksum": "de5b9d144d9cd735a3c53d866ee8c825"
+        },
+        {
+          "type": "icon",
+          "assetId": "h9YldjRI7weL",
+          "checksum": "42fd6ee1ce8715e3d36298f86dc64616"
+        },
+        {
+          "type": "icon",
+          "assetId": "2lzB-aN9Ovtr",
+          "checksum": "92cecfb0fe57dd840bc8ccffa4d941c8"
+        },
+        {
+          "type": "icon",
+          "assetId": "xMlyZn53BWhR",
+          "checksum": "ebdf8eee9ec513b76ee1943751c93752"
+        },
+        {
+          "type": "icon",
+          "assetId": "-YKhTDZn0B0U",
+          "checksum": "a1b276ffa9889bc8a1129f1f217afdd2"
+        },
+        {
+          "type": "icon",
+          "assetId": "GOK6ii8cETUd",
+          "checksum": "05285c95c48e1c654a702ee51f8bf6a2"
+        },
+        {
+          "type": "icon",
+          "assetId": "KJlZcwD4Za2s",
+          "checksum": "df37ea3123cb15de74842eef5d628a34"
+        },
+        {
+          "type": "icon",
+          "assetId": "fBm21yw4zuqd",
+          "checksum": "4236635c6bb5cb98a2e267518264fa9e"
+        },
+        {
+          "type": "image",
+          "assetId": "Bhs8M0Sdu2zY",
+          "checksum": "d0586db172c3229264c82b45c5ca7dd0"
+        },
+        {
+          "type": "image",
+          "assetId": "KidsuQj8luQd",
+          "checksum": "5ea1c82f50f26a98723c2d1ae896b606"
+        },
+        {
+          "type": "image",
+          "assetId": "Z9cUFNSmflzY",
+          "checksum": "7c1b0d55e93389b2e4b205dfa712448f"
+        },
+        {
+          "type": "image",
+          "assetId": "Oo7hNps2FpxO",
+          "checksum": "a7ceba5f88ea576547696c630f11c953"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.325"
+}
